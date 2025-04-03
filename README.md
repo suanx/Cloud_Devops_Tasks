@@ -1,2 +1,2 @@
-# Cloud_Tasks
-This repo contains simple aws tasks with documentation
+
+This repo contains simple aws and devops tasks with documentation
